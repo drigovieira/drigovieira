@@ -1,4 +1,4 @@
-## Olá eu sou o Rodrigo Vieira, estudante de Análise e Desenvolvimento de Sistemas
+## 👨‍💻 Olá eu sou o Rodrigo Vieira, estudante de Análise e Desenvolvimento de Sistemas
 
  <div style="margin-left:auto; margin-right:auto">
   <a href="https://github.com/savio-2-lopes">
