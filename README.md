@@ -1,4 +1,4 @@
-## 👨‍💻 Hello 👋 I'm Rodrigo Vieira. Junior Programmer @ Plus Intelligence
+## 👨‍💻 Hello 👋 I'm Rodrigo Vieira. Junior Web Developer @ Object1ve
 
  <div style="margin-left:auto; margin-right:auto">
   <a href="https://github.com/drigovieira">
