@@ -31,8 +31,6 @@
   <a href="https://www.facebook.com/rodrigo.vieira.3304673/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/orodrigovieir" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<!-- <a href="https://www.twitch.tv/CrioloGameShow" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-  
-  ##
  
   <!-- ![snake animation](https://github.com/drigovieira/drigovieira/blob/output/github-contribution-grid-snake2.svg) -->
 </div>
