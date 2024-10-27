@@ -34,5 +34,5 @@
   
   ##
  
-  ![snake animation](https://github.com/drigovieira/drigovieira/blob/output/github-contribution-grid-snake2.svg)
+  <!-- ![snake animation](https://github.com/drigovieira/drigovieira/blob/output/github-contribution-grid-snake2.svg) -->
 </div>
