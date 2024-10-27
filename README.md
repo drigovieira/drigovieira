@@ -18,13 +18,12 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
-
 </div>
   
   ##
  
 <div> 
+  <a href="https://www.rodrigoapvieira.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a>
   <a href="https://api.whatsapp.com/send?phone=5512978122934&text=Olá! Podemos conversar?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-vieira-4aa90b169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:rodrigopiresvieira20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -33,4 +32,15 @@
  	<!-- <a href="https://www.twitch.tv/CrioloGameShow" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
  
   <!-- ![snake animation](https://github.com/drigovieira/drigovieira/blob/output/github-contribution-grid-snake2.svg) -->
+</div>
+  
+  ##
+ 
+<div>
+  <ul>
+   <li>Estudando Ciência de Dados pela DNC</li>
+   <li>Graduado em Análise e Desenvolvimento de Sistemas</li>
+   <li>Graduado em Engenharia de Produçã</li>
+   <li>Tenho uma grande paixão pela área de dados e meu objetivo é expandir meu aprendizado para agregar valor aos processos de negócios.</li>
+  </ul>
 </div>
