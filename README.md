@@ -40,7 +40,7 @@
   <ul>
    <li>Estudando Ciência de Dados pela DNC</li>
    <li>Graduado em Análise e Desenvolvimento de Sistemas</li>
-   <li>Graduado em Engenharia de Produçã</li>
+   <li>Graduado em Engenharia de Produção</li>
    <li>Tenho uma grande paixão pela área de dados e meu objetivo é expandir meu aprendizado para agregar valor aos processos de negócios.</li>
   </ul>
 </div>
