@@ -39,6 +39,7 @@
 <div>
   <ul>
    <li>Estudando Banco de Dados na Fatec São José dos Campos/SP</li>
+   <li>Estudando Gestão e Liderança em Tecnologia</li>
    <li>Graduado em Análise e Desenvolvimento de Sistemas</li>
    <li>Especializado em Ciência de Dados</li>
    <li>Graduado em Engenharia de Produção</li>
