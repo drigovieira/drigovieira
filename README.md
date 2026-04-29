@@ -10,7 +10,7 @@
   
   ##
   
-<div style="display: inline_block"><br>
+<div style="display:flex;">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,8 +40,6 @@
  
 <div>
   <ul>
-   <li>Estudando Banco de Dados na Fatec São José dos Campos/SP</li>
-   <li>Estudando Gestão e Liderança em Tecnologia</li>
    <li>Graduado em Análise e Desenvolvimento de Sistemas</li>
    <li>Especializado em Ciência de Dados</li>
    <li>Graduado em Engenharia de Produção</li>
